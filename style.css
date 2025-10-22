@@ -47,7 +47,15 @@ section {
   padding: 50px 20px;
   text-align: center;
 }
+ .product-details {
+  text-align: left;
+  margin-top: 10px;
+  font-size: 0.9rem;
+}
 
+.product-details p {
+  margin: 4px 0;
+}
 #products h2, #upload h2, #contact h2 {
   margin-bottom: 20px;
   color: #1b5e20;
